@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<title>Vicky Yang</title>
+
+	<link rel="stylesheet" type="text/css" href="assets/css/projects.css">
+</head>
+
+<body>
+	<header>
+		<div class="brand">
+			<a href="index.html">Vicky Yang</a>
+		</div>
+			
+		<nav>
+			<a href="index.html">Work</a>
+			<a href="about.html">About</a>	
+		</nav>
+	</header>
+
+
+	<section class="project_title">	
+		<h1>Google & Slide</h1>
+		<h2>Ad Formats</h2>
+	</section>
+
+
+	<section class="project_img_single">
+		<img src="" alt="">
+	</section>
+
+
+	<section class="project">
+
+	<div class="project_wrapper">	
+		<h2>Context</h2>
+
+		<div class="project_text">
+			<p>In August 2016 I joined the Audience Network team at Facebook. Audience Network is Facebook’s external ad network. That means, we serve ads from Facebook and display it on 3rd party apps, mobile websites and video streaming sites(publishers). Our publishers at the time include CandyCrush, Washington Post, DailyMotion and more...</p>
+		</div>
+
+	<div/>
+	</section>
+
+
+	<section class="project_img_single">
+		<img src="" alt="">
+	</section>
+
+
+	<section class="project_img_single">
+		<img src="" alt="">
+	</section>
+
+	<section class="project">
+
+	<div class="project_wrapper">
+		<h2>The Problem</h2>
+
+		<div class="project_text">
+			<p>Have a bold statement
+			The Facebook ad design structure isn’t a one size fit all desgin for our all our publishers on mobile app, web and video. Especially within Facebook there are various ad formats(image, video, carousel etc...) to support our advistisers to ennhance their creatives. My job here was to create good ad format systems for our publisher and to discover new potienal ad formats to improve ad performance throughout the business.
+			</p>
+		</div>
+
+	</div>
+	</section>
+
+	<section class="project_img_single">
+		<img src="" alt="">
+	</section>
+
+
+	<section class="project">
+
+	<div class="project_wrapper">
+		<h2>The Outcome</h2>
+
+		<div class="project_text">
+			<p>Have a bold statement
+			The first implemtation of ad reporting resulted in a 300% increase. Over time we’ve added reporting through different media surfaces. Eventually even the WhatsApp team wants to adapt the design.
+			</p>
+		</div>
+
+	</div>
+	</section>
+
+
+	</div>
+
+	<footer>
+		<div class="pagination">
+			<ul>
+				<li class="left">
+                      <a href="event_messenger.html">
+                       <img class="arrow_left" src="assets/images/arrow-left.svg"> 
+                        Previous project<br>
+                        Google
+                      </a>
+                </li>
+				<li class="right">
+                      <a href="">
+                       <img class="arrow_right" src="assets/images/arrow-right.svg">                      	
+                       Next project
+                       <br>Burberry
+                   </a>
+               </li>
+			</ul>
+		</div>
+	</footer>
+
+
+
+</body>
+</html>
